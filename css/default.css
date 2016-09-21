@@ -61,8 +61,7 @@ html,body {
 
 #p {
 	position: relative;
-	-webkit-animation: p_move 2s alternate infinite;
-	cubic-bezier(.39,.4,.3,.88);
+	-webkit-animation: p_move 2s alternate infinite linear;
 }
 
 /*E*/
